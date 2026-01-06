@@ -1,8 +1,6 @@
-# financial-data-pipeline
-Hybrid Financial Data Pipeline combining Statistical Logic (TF-IDF, Clustering) and LLMs.
-
 # 📈 M-able 룰틴 (M-able Rule-tine): Financial Data Pipeline
 > **Cost-Efficient Hybrid AI Pipeline for Personalized Investment Coaching**
+<img src="https://github.com/user-attachments/assets/8fb9f4f8-1960-458c-912f-0f0b644f7ccc" width="100%">
 
 [![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)](https://www.python.org/) [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Transformers-yellow)](https://huggingface.co/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-336791?logo=postgresql)](https://www.postgresql.org/)
 
